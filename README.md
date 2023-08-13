@@ -18,8 +18,7 @@ Inputting the file 'sample_parsed_sentences.json' created the file 'sample_lexic
 ## Configuration
 
 - Arguments can be added to model_dump_json in line 112 to exclude None values or certain features from the output (see Pydantic docs, https://docs.pydantic.dev/latest/api/base_model/#pydantic.main.BaseModel.model_dump_json).
-- Currently, each Wordform is created with all available features, even for parts of speech that do not need them (e.g. verbs have 'case': '').
-- A configuration file could be created in the pipeline to define a schema for these features.
+- Currently, each Wordform is created with all available features, even for parts of speech that do not need them (e.g. verbs have 'case': ''). A configuration file could be created in the pipeline to define a schema for these features.
 - This configuration file could also define which parts of speech to skip; currently the script skips number and punctuation tokens by default (line 134).
 
 ## Place within a production environment
