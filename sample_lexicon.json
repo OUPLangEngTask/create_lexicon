@@ -1,0 +1,3402 @@
+{
+    "entries": {
+        "жыл_NOUN": {
+            "lemma": "жыл",
+            "pos": "NOUN",
+            "key": "жыл_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "жылы": {
+                    "wordform": "жылы",
+                    "freq": 1,
+                    "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                },
+                "жылдың": {
+                    "wordform": "жылдың",
+                    "freq": 1,
+                    "feats": "Case=Gen",
+                    "numtype": "",
+                    "case": "gen",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "желтоқсан_NOUN": {
+            "lemma": "желтоқсан",
+            "pos": "NOUN",
+            "key": "желтоқсан_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "желтоқсанда": {
+                    "wordform": "желтоқсанда",
+                    "freq": 1,
+                    "feats": "Case=Loc",
+                    "numtype": "",
+                    "case": "loc",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "президент_NOUN": {
+            "lemma": "президент",
+            "pos": "NOUN",
+            "key": "президент_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "Президент": {
+                    "wordform": "Президент",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                },
+                "президенті": {
+                    "wordform": "президенті",
+                    "freq": 1,
+                    "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "Қазақстан_PROPN": {
+            "lemma": "Қазақстан",
+            "pos": "PROPN",
+            "key": "Қазақстан_PROPN",
+            "pos_finegrained": "np",
+            "freq": 1,
+            "wordforms": {
+                "Қазақстан": {
+                    "wordform": "Қазақстан",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "республика_NOUN": {
+            "lemma": "республика",
+            "pos": "NOUN",
+            "key": "республика_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "Республикасының": {
+                    "wordform": "Республикасының",
+                    "freq": 1,
+                    "feats": "Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "gen",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "кейбір_ADJ": {
+            "lemma": "кейбір",
+            "pos": "ADJ",
+            "key": "кейбір_ADJ",
+            "pos_finegrained": "adj",
+            "freq": 1,
+            "wordforms": {
+                "кейбір": {
+                    "wordform": "кейбір",
+                    "freq": 1,
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "заңнамалық_ADJ": {
+            "lemma": "заңнамалық",
+            "pos": "ADJ",
+            "key": "заңнамалық_ADJ",
+            "pos_finegrained": "adj",
+            "freq": 1,
+            "wordforms": {
+                "заңнамалық": {
+                    "wordform": "заңнамалық",
+                    "freq": 1,
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "акт_NOUN": {
+            "lemma": "акт",
+            "pos": "NOUN",
+            "key": "акт_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "актілеріне": {
+                    "wordform": "актілеріне",
+                    "freq": 1,
+                    "feats": "Case=Ins|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "ins",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "plur",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                },
+                "актілерге": {
+                    "wordform": "актілерге",
+                    "freq": 1,
+                    "feats": "Case=Dat|Number=Plur",
+                    "numtype": "",
+                    "case": "dat",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "plur",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "қылмыстық_ADJ": {
+            "lemma": "қылмыстық",
+            "pos": "ADJ",
+            "key": "қылмыстық_ADJ",
+            "pos_finegrained": "adj",
+            "freq": 1,
+            "wordforms": {
+                "қылмыстық": {
+                    "wordform": "қылмыстық",
+                    "freq": 1,
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "іс_NOUN": {
+            "lemma": "іс",
+            "pos": "NOUN",
+            "key": "іс_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "іс": {
+                    "wordform": "іс",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "жүр_VERB": {
+            "lemma": "жүр",
+            "pos": "VERB",
+            "key": "жүр_VERB",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "жүргізу": {
+                    "wordform": "жүргізу",
+                    "freq": 1,
+                    "feats": "Case=Nom|VerbForm=Ger",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "ger",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "заңнама_NOUN": {
+            "lemma": "заңнама",
+            "pos": "NOUN",
+            "key": "заңнама_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "заңнамасын": {
+                    "wordform": "заңнамасын",
+                    "freq": 1,
+                    "feats": "Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "acc",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "жетілдір_VERB": {
+            "lemma": "жетілдір",
+            "pos": "VERB",
+            "key": "жетілдір_VERB",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "жетілдіру": {
+                    "wordform": "жетілдіру",
+                    "freq": 1,
+                    "feats": "Case=Nom|VerbForm=Ger",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "ger",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "және_CCONJ": {
+            "lemma": "және",
+            "pos": "CCONJ",
+            "key": "және_CCONJ",
+            "pos_finegrained": "cnjcoo",
+            "freq": 1,
+            "wordforms": {
+                "және": {
+                    "wordform": "және",
+                    "freq": 1,
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "жеке_ADJ": {
+            "lemma": "жеке",
+            "pos": "ADJ",
+            "key": "жеке_ADJ",
+            "pos_finegrained": "adj",
+            "freq": 1,
+            "wordforms": {
+                "жеке": {
+                    "wordform": "жеке",
+                    "freq": 1,
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "адам_NOUN": {
+            "lemma": "адам",
+            "pos": "NOUN",
+            "key": "адам_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "адамның": {
+                    "wordform": "адамның",
+                    "freq": 1,
+                    "feats": "Case=Gen",
+                    "numtype": "",
+                    "case": "gen",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "құқық_NOUN": {
+            "lemma": "құқық",
+            "pos": "NOUN",
+            "key": "құқық_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "құқықтарын": {
+                    "wordform": "құқықтарын",
+                    "freq": 1,
+                    "feats": "Case=Acc|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "acc",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "plur",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "қорғау_VERB": {
+            "lemma": "қорғау",
+            "pos": "VERB",
+            "key": "қорғау_VERB",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "қорғауды": {
+                    "wordform": "қорғауды",
+                    "freq": 1,
+                    "feats": "Case=Acc|VerbForm=Ger",
+                    "numtype": "",
+                    "case": "acc",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "ger",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "күшейт_VERB": {
+            "lemma": "күшейт",
+            "pos": "VERB",
+            "key": "күшейт_VERB",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "күшейту": {
+                    "wordform": "күшейту",
+                    "freq": 1,
+                    "feats": "Case=Nom|VerbForm=Ger",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "ger",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "мәселе_NOUN": {
+            "lemma": "мәселе",
+            "pos": "NOUN",
+            "key": "мәселе_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "мәселелері": {
+                    "wordform": "мәселелері",
+                    "freq": 3,
+                    "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "бойынша_ADP": {
+            "lemma": "бойынша",
+            "pos": "ADP",
+            "key": "бойынша_ADP",
+            "pos_finegrained": "post",
+            "freq": 1,
+            "wordforms": {
+                "бойынша": {
+                    "wordform": "бойынша",
+                    "freq": 1,
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "өзгеріс_NOUN": {
+            "lemma": "өзгеріс",
+            "pos": "NOUN",
+            "key": "өзгеріс_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "өзгерістер": {
+                    "wordform": "өзгерістер",
+                    "freq": 1,
+                    "feats": "Case=Nom|Number=Plur",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "plur",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "мен_CCONJ": {
+            "lemma": "мен",
+            "pos": "CCONJ",
+            "key": "мен_CCONJ",
+            "pos_finegrained": "cnjcoo",
+            "freq": 1,
+            "wordforms": {
+                "мен": {
+                    "wordform": "мен",
+                    "freq": 1,
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "толықтыру_NOUN": {
+            "lemma": "толықтыру",
+            "pos": "NOUN",
+            "key": "толықтыру_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "толықтырулар": {
+                    "wordform": "толықтырулар",
+                    "freq": 1,
+                    "feats": "Case=Nom|Number=Plur",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "plur",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "енгіз_VERB": {
+            "lemma": "енгіз",
+            "pos": "VERB",
+            "key": "енгіз_VERB",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "енгізу": {
+                    "wordform": "енгізу",
+                    "freq": 1,
+                    "feats": "Case=Nom|VerbForm=Ger",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "ger",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                },
+                "енгізілді": {
+                    "wordform": "енгізілді",
+                    "freq": 1,
+                    "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass",
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "sing",
+                    "verbform": "fin",
+                    "mood": "ind",
+                    "person": "3",
+                    "tense": "past",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": "pass"
+                }
+            }
+        },
+        "турал_NOUN": {
+            "lemma": "турал",
+            "pos": "NOUN",
+            "key": "турал_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "туралы": {
+                    "wordform": "туралы",
+                    "freq": 1,
+                    "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "заң_NOUN": {
+            "lemma": "заң",
+            "pos": "NOUN",
+            "key": "заң_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "Заңға": {
+                    "wordform": "Заңға",
+                    "freq": 1,
+                    "feats": "Case=Dat",
+                    "numtype": "",
+                    "case": "dat",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                },
+                "Заңы": {
+                    "wordform": "Заңы",
+                    "freq": 1,
+                    "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "қол_X": {
+            "lemma": "қол",
+            "pos": "X",
+            "key": "қол_X",
+            "pos_finegrained": "x",
+            "freq": 1,
+            "wordforms": {
+                "қол": {
+                    "wordform": "қол",
+                    "freq": 1,
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "қой_VERB": {
+            "lemma": "қой",
+            "pos": "VERB",
+            "key": "қой_VERB",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "қойды": {
+                    "wordform": "қойды",
+                    "freq": 1,
+                    "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin",
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "sing",
+                    "verbform": "fin",
+                    "mood": "ind",
+                    "person": "3",
+                    "tense": "past",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "Кремль_PROPN": {
+            "lemma": "Кремль",
+            "pos": "PROPN",
+            "key": "Кремль_PROPN",
+            "pos_finegrained": "np",
+            "freq": 1,
+            "wordforms": {
+                "Кремль": {
+                    "wordform": "Кремль",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "өкіл_NOUN": {
+            "lemma": "өкіл",
+            "pos": "NOUN",
+            "key": "өкіл_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "өкілінің": {
+                    "wordform": "өкілінің",
+                    "freq": 1,
+                    "feats": "Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "gen",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                },
+                "өкілі": {
+                    "wordform": "өкілі",
+                    "freq": 1,
+                    "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "айтыу_NOUN": {
+            "lemma": "айтыу",
+            "pos": "NOUN",
+            "key": "айтыу_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "айтуынша": {
+                    "wordform": "айтуынша",
+                    "freq": 1,
+                    "feats": "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "loc",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "Беларусь_PROPN": {
+            "lemma": "Беларусь",
+            "pos": "PROPN",
+            "key": "Беларусь_PROPN",
+            "pos_finegrained": "np",
+            "freq": 1,
+            "wordforms": {
+                "Беларусь": {
+                    "wordform": "Беларусь",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "Александр_PROPN": {
+            "lemma": "Александр",
+            "pos": "PROPN",
+            "key": "Александр_PROPN",
+            "pos_finegrained": "np",
+            "freq": 1,
+            "wordforms": {
+                "Александр": {
+                    "wordform": "Александр",
+                    "freq": 1,
+                    "feats": "Case=Nom|Gender=Masc",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "masc",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "Лукашенко_PROPN": {
+            "lemma": "Лукашенко",
+            "pos": "PROPN",
+            "key": "Лукашенко_PROPN",
+            "pos_finegrained": "np",
+            "freq": 1,
+            "wordforms": {
+                "Лукашенко": {
+                    "wordform": "Лукашенко",
+                    "freq": 1,
+                    "feats": "Case=Nom|Gender=Masc",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "masc",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "Путин_PROPN": {
+            "lemma": "Путин",
+            "pos": "PROPN",
+            "key": "Путин_PROPN",
+            "pos_finegrained": "np",
+            "freq": 1,
+            "wordforms": {
+                "Путинге": {
+                    "wordform": "Путинге",
+                    "freq": 1,
+                    "feats": "Case=Dat",
+                    "numtype": "",
+                    "case": "dat",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "Минск_PROPN": {
+            "lemma": "Минск",
+            "pos": "PROPN",
+            "key": "Минск_PROPN",
+            "pos_finegrained": "np",
+            "freq": 1,
+            "wordforms": {
+                "Минск": {
+                    "wordform": "Минск",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "Ресей_PROPN": {
+            "lemma": "Ресей",
+            "pos": "PROPN",
+            "key": "Ресей_PROPN",
+            "pos_finegrained": "np",
+            "freq": 1,
+            "wordforms": {
+                "Ресей": {
+                    "wordform": "Ресей",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "Украина_PROPN": {
+            "lemma": "Украина",
+            "pos": "PROPN",
+            "key": "Украина_PROPN",
+            "pos_finegrained": "np",
+            "freq": 1,
+            "wordforms": {
+                "Украина": {
+                    "wordform": "Украина",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "ара_NOUN": {
+            "lemma": "ара",
+            "pos": "NOUN",
+            "key": "ара_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "арасындағы": {
+                    "wordform": "арасындағы",
+                    "freq": 1,
+                    "feats": "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "loc",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "келіссөз_NOUN": {
+            "lemma": "келіссөз",
+            "pos": "NOUN",
+            "key": "келіссөз_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "келіссөз": {
+                    "wordform": "келіссөз",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "проце_NOUN": {
+            "lemma": "проце",
+            "pos": "NOUN",
+            "key": "проце_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "процесі": {
+                    "wordform": "процесі",
+                    "freq": 1,
+                    "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "үшін_ADP": {
+            "lemma": "үшін",
+            "pos": "ADP",
+            "key": "үшін_ADP",
+            "pos_finegrained": "post",
+            "freq": 1,
+            "wordforms": {
+                "үшін": {
+                    "wordform": "үшін",
+                    "freq": 1,
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "барлық_ADJ": {
+            "lemma": "барлық",
+            "pos": "ADJ",
+            "key": "барлық_ADJ",
+            "pos_finegrained": "adj",
+            "freq": 1,
+            "wordforms": {
+                "барлық": {
+                    "wordform": "барлық",
+                    "freq": 1,
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "қажетті_ADJ": {
+            "lemma": "қажетті",
+            "pos": "ADJ",
+            "key": "қажетті_ADJ",
+            "pos_finegrained": "adj",
+            "freq": 1,
+            "wordforms": {
+                "қажетті": {
+                    "wordform": "қажетті",
+                    "freq": 1,
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "жағдай_NOUN": {
+            "lemma": "жағдай",
+            "pos": "NOUN",
+            "key": "жағдай_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "жағдай": {
+                    "wordform": "жағдай",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "жаса_VERB": {
+            "lemma": "жаса",
+            "pos": "VERB",
+            "key": "жаса_VERB",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "жасауға": {
+                    "wordform": "жасауға",
+                    "freq": 1,
+                    "feats": "Case=Dat|VerbForm=Ger",
+                    "numtype": "",
+                    "case": "dat",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "ger",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "дайын_ADJ": {
+            "lemma": "дайын",
+            "pos": "ADJ",
+            "key": "дайын_ADJ",
+            "pos_finegrained": "adj",
+            "freq": 1,
+            "wordforms": {
+                "дайын": {
+                    "wordform": "дайын",
+                    "freq": 1,
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "е_AUX": {
+            "lemma": "е",
+            "pos": "AUX",
+            "key": "е_AUX",
+            "pos_finegrained": "cop",
+            "freq": 1,
+            "wordforms": {
+                "екеніне": {
+                    "wordform": "екеніне",
+                    "freq": 1,
+                    "feats": "Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3|Tense=Past|VerbForm=Ger",
+                    "numtype": "",
+                    "case": "dat",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "ger",
+                    "mood": "",
+                    "person": "",
+                    "tense": "past",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "сендір_VERB": {
+            "lemma": "сендір",
+            "pos": "VERB",
+            "key": "сендір_VERB",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "сендірді": {
+                    "wordform": "сендірді",
+                    "freq": 1,
+                    "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin",
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "sing",
+                    "verbform": "fin",
+                    "mood": "ind",
+                    "person": "3",
+                    "tense": "past",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "де_VERB": {
+            "lemma": "де",
+            "pos": "VERB",
+            "key": "де_VERB",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "деп": {
+                    "wordform": "деп",
+                    "freq": 1,
+                    "feats": "Aspect=Perf|VerbForm=Conv",
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "conv",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "perf",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "хабарла_VERB": {
+            "lemma": "хабарла",
+            "pos": "VERB",
+            "key": "хабарла_VERB",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "хабарлайды": {
+                    "wordform": "хабарлайды",
+                    "freq": 1,
+                    "feats": "Tense=Past|VerbForm=Fin",
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "fin",
+                    "mood": "",
+                    "person": "",
+                    "tense": "past",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "ТАСС_PROPN": {
+            "lemma": "ТАСС",
+            "pos": "PROPN",
+            "key": "ТАСС_PROPN",
+            "pos_finegrained": "np",
+            "freq": 1,
+            "wordforms": {
+                "ТАСС": {
+                    "wordform": "ТАСС",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "биіктік_NOUN": {
+            "lemma": "биіктік",
+            "pos": "NOUN",
+            "key": "биіктік_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "Биіктігі": {
+                    "wordform": "Биіктігі",
+                    "freq": 1,
+                    "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "метр_NOUN": {
+            "lemma": "метр",
+            "pos": "NOUN",
+            "key": "метр_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "метр": {
+                    "wordform": "метр",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "ол_PRON": {
+            "lemma": "ол",
+            "pos": "PRON",
+            "key": "ол_PRON",
+            "pos_finegrained": "prn",
+            "freq": 1,
+            "wordforms": {
+                "Оның": {
+                    "wordform": "Оның",
+                    "freq": 1,
+                    "feats": "Case=Gen|Number=Sing|Person=3|PronType=Prs",
+                    "numtype": "",
+                    "case": "gen",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "sing",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "3",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "prs",
+                    "voice": ""
+                }
+            }
+        },
+        "іш_NOUN": {
+            "lemma": "іш",
+            "pos": "NOUN",
+            "key": "іш_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "ішінде": {
+                    "wordform": "ішінде",
+                    "freq": 1,
+                    "feats": "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "loc",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                },
+                "ішінен": {
+                    "wordform": "ішінен",
+                    "freq": 1,
+                    "feats": "Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "abl",
+                    "number_psor": "",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "сол_DET": {
+            "lemma": "сол",
+            "pos": "DET",
+            "key": "сол_DET",
+            "pos_finegrained": "det",
+            "freq": 1,
+            "wordforms": {
+                "сол": {
+                    "wordform": "сол",
+                    "freq": 1,
+                    "feats": "PronType=Dem",
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "dem",
+                    "voice": ""
+                }
+            }
+        },
+        "жақ_NOUN": {
+            "lemma": "жақ",
+            "pos": "NOUN",
+            "key": "жақ_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "жақтағы": {
+                    "wordform": "жақтағы",
+                    "freq": 1,
+                    "feats": "Case=Loc",
+                    "numtype": "",
+                    "case": "loc",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "мұнара_NOUN": {
+            "lemma": "мұнара",
+            "pos": "NOUN",
+            "key": "мұнара_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "мұнара": {
+                    "wordform": "мұнара",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "лифт_NOUN": {
+            "lemma": "лифт",
+            "pos": "NOUN",
+            "key": "лифт_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "лифт": {
+                    "wordform": "лифт",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "арқылы_NOUN": {
+            "lemma": "арқылы",
+            "pos": "NOUN",
+            "key": "арқылы_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "арқылы": {
+                    "wordform": "арқылы",
+                    "freq": 1,
+                    "feats": "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "loc",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "жоғары_ADJ": {
+            "lemma": "жоғары",
+            "pos": "ADJ",
+            "key": "жоғары_ADJ",
+            "pos_finegrained": "adj",
+            "freq": 1,
+            "wordforms": {
+                "жоғары": {
+                    "wordform": "жоғары",
+                    "freq": 1,
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "көтер_VERB": {
+            "lemma": "көтер",
+            "pos": "VERB",
+            "key": "көтер_VERB",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "көтеріліп": {
+                    "wordform": "көтеріліп",
+                    "freq": 1,
+                    "feats": "Aspect=Perf|VerbForm=Conv",
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "conv",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "perf",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "қала_NOUN": {
+            "lemma": "қала",
+            "pos": "NOUN",
+            "key": "қала_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "қаланы": {
+                    "wordform": "қаланы",
+                    "freq": 1,
+                    "feats": "Case=Acc",
+                    "numtype": "",
+                    "case": "acc",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "биік_NOUN": {
+            "lemma": "биік",
+            "pos": "NOUN",
+            "key": "биік_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "биіктен": {
+                    "wordform": "биіктен",
+                    "freq": 1,
+                    "feats": "Case=Abl",
+                    "numtype": "",
+                    "case": "abl",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "тамаша_VERB": {
+            "lemma": "тамаша",
+            "pos": "VERB",
+            "key": "тамаша_VERB",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "тамашалауға": {
+                    "wordform": "тамашалауға",
+                    "freq": 1,
+                    "feats": "Case=Dat|VerbForm=Ger",
+                    "numtype": "",
+                    "case": "dat",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "ger",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "бол_AUX": {
+            "lemma": "бол",
+            "pos": "AUX",
+            "key": "бол_AUX",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "болады": {
+                    "wordform": "болады",
+                    "freq": 1,
+                    "feats": "Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "sing",
+                    "verbform": "fin",
+                    "mood": "ind",
+                    "person": "3",
+                    "tense": "pres",
+                    "gender": "",
+                    "aspect": "hab",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "Атап_X": {
+            "lemma": "Атап",
+            "pos": "X",
+            "key": "Атап_X",
+            "pos_finegrained": "x",
+            "freq": 1,
+            "wordforms": {
+                "Атап": {
+                    "wordform": "Атап",
+                    "freq": 1,
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "айт_VERB": {
+            "lemma": "айт",
+            "pos": "VERB",
+            "key": "айт_VERB",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "айтқанда": {
+                    "wordform": "айтқанда",
+                    "freq": 1,
+                    "feats": "Tense=Past|VerbForm=Part",
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "part",
+                    "mood": "",
+                    "person": "",
+                    "tense": "past",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "картоп_NOUN": {
+            "lemma": "картоп",
+            "pos": "NOUN",
+            "key": "картоп_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "картоп": {
+                    "wordform": "картоп",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "қор_NOUN": {
+            "lemma": "қор",
+            "pos": "NOUN",
+            "key": "қор_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "қоры": {
+                    "wordform": "қоры",
+                    "freq": 1,
+                    "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "тоннан_NOUN": {
+            "lemma": "тоннан",
+            "pos": "NOUN",
+            "key": "тоннан_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "тоннаны": {
+                    "wordform": "тоннаны",
+                    "freq": 1,
+                    "feats": "Case=Acc",
+                    "numtype": "",
+                    "case": "acc",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "құра_VERB": {
+            "lemma": "құра",
+            "pos": "VERB",
+            "key": "құра_VERB",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "құрайды": {
+                    "wordform": "құрайды",
+                    "freq": 1,
+                    "feats": "Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "sing",
+                    "verbform": "fin",
+                    "mood": "ind",
+                    "person": "3",
+                    "tense": "pres",
+                    "gender": "",
+                    "aspect": "hab",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "ерте_ADJ": {
+            "lemma": "ерте",
+            "pos": "ADJ",
+            "key": "ерте_ADJ",
+            "pos_finegrained": "adj",
+            "freq": 1,
+            "wordforms": {
+                "ерте": {
+                    "wordform": "ерте",
+                    "freq": 1,
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "ег_NOUN": {
+            "lemma": "ег",
+            "pos": "NOUN",
+            "key": "ег_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "егін": {
+                    "wordform": "егін",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "болжам_NOUN": {
+            "lemma": "болжам",
+            "pos": "NOUN",
+            "key": "болжам_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "болжамы": {
+                    "wordform": "болжамы",
+                    "freq": 1,
+                    "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "тонна_NOUN": {
+            "lemma": "тонна",
+            "pos": "NOUN",
+            "key": "тонна_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "тоннадан": {
+                    "wordform": "тоннадан",
+                    "freq": 1,
+                    "feats": "Case=Abl",
+                    "numtype": "",
+                    "case": "abl",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "аса_VERB": {
+            "lemma": "аса",
+            "pos": "VERB",
+            "key": "аса_VERB",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "асады": {
+                    "wordform": "асады",
+                    "freq": 1,
+                    "feats": "Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "sing",
+                    "verbform": "fin",
+                    "mood": "ind",
+                    "person": "3",
+                    "tense": "pres",
+                    "gender": "",
+                    "aspect": "hab",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "тон_NOUN": {
+            "lemma": "тон",
+            "pos": "NOUN",
+            "key": "тон_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "тонна": {
+                    "wordform": "тонна",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "қырыққабат_NOUN": {
+            "lemma": "қырыққабат",
+            "pos": "NOUN",
+            "key": "қырыққабат_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "қырыққабат": {
+                    "wordform": "қырыққабат",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "сақта_VERB": {
+            "lemma": "сақта",
+            "pos": "VERB",
+            "key": "сақта_VERB",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "сақталуда": {
+                    "wordform": "сақталуда",
+                    "freq": 1,
+                    "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass",
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "plur",
+                    "verbform": "fin",
+                    "mood": "ind",
+                    "person": "3",
+                    "tense": "past",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": "pass"
+                }
+            }
+        },
+        "бұл_DET": {
+            "lemma": "бұл",
+            "pos": "DET",
+            "key": "бұл_DET",
+            "pos_finegrained": "det",
+            "freq": 1,
+            "wordforms": {
+                "Бұл": {
+                    "wordform": "Бұл",
+                    "freq": 1,
+                    "feats": "PronType=Dem",
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "dem",
+                    "voice": ""
+                }
+            }
+        },
+        "олқылық_NOUN": {
+            "lemma": "олқылық",
+            "pos": "NOUN",
+            "key": "олқылық_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "олқылықтың": {
+                    "wordform": "олқылықтың",
+                    "freq": 1,
+                    "feats": "Case=Gen",
+                    "numtype": "",
+                    "case": "gen",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "орнын_NOUN": {
+            "lemma": "орнын",
+            "pos": "NOUN",
+            "key": "орнын_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "орнын": {
+                    "wordform": "орнын",
+                    "freq": 1,
+                    "feats": "Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "acc",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "толтыр_VERB": {
+            "lemma": "толтыр",
+            "pos": "VERB",
+            "key": "толтыр_VERB",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "толтыру": {
+                    "wordform": "толтыру",
+                    "freq": 1,
+                    "feats": "Case=Nom|VerbForm=Ger",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "ger",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "мақсат_NOUN": {
+            "lemma": "мақсат",
+            "pos": "NOUN",
+            "key": "мақсат_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "мақсатында": {
+                    "wordform": "мақсатында",
+                    "freq": 1,
+                    "feats": "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "loc",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "солтүстік_ADJ": {
+            "lemma": "солтүстік",
+            "pos": "ADJ",
+            "key": "солтүстік_ADJ",
+            "pos_finegrained": "adj",
+            "freq": 1,
+            "wordforms": {
+                "Солтүстік": {
+                    "wordform": "Солтүстік",
+                    "freq": 1,
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "көлік_NOUN": {
+            "lemma": "көлік",
+            "pos": "NOUN",
+            "key": "көлік_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "көлік": {
+                    "wordform": "көлік",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "прокуратура_NOUN": {
+            "lemma": "прокуратура",
+            "pos": "NOUN",
+            "key": "прокуратура_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "прокуратурасы": {
+                    "wordform": "прокуратурасы",
+                    "freq": 1,
+                    "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "халықаралық_ADJ": {
+            "lemma": "халықаралық",
+            "pos": "ADJ",
+            "key": "халықаралық_ADJ",
+            "pos_finegrained": "adj",
+            "freq": 1,
+            "wordforms": {
+                "Халықаралық": {
+                    "wordform": "Халықаралық",
+                    "freq": 1,
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "медиация_NOUN": {
+            "lemma": "медиация",
+            "pos": "NOUN",
+            "key": "медиация_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "медиация": {
+                    "wordform": "медиация",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "орталық_NOUN": {
+            "lemma": "орталық",
+            "pos": "NOUN",
+            "key": "орталық_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "орталығы": {
+                    "wordform": "орталығы",
+                    "freq": 1,
+                    "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "РҚБ_PROPN": {
+            "lemma": "РҚБ",
+            "pos": "PROPN",
+            "key": "РҚБ_PROPN",
+            "pos_finegrained": "np",
+            "freq": 1,
+            "wordforms": {
+                "РҚБ": {
+                    "wordform": "РҚБ",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "СҚО_PROPN": {
+            "lemma": "СҚО",
+            "pos": "PROPN",
+            "key": "СҚО_PROPN",
+            "pos_finegrained": "np",
+            "freq": 1,
+            "wordforms": {
+                "СҚО": {
+                    "wordform": "СҚО",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "алтын_PROPN": {
+            "lemma": "алтын",
+            "pos": "PROPN",
+            "key": "алтын_PROPN",
+            "pos_finegrained": "np",
+            "freq": 1,
+            "wordforms": {
+                "Алтын": {
+                    "wordform": "Алтын",
+                    "freq": 1,
+                    "feats": "Case=Nom|Gender=Masc",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "masc",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "би_PROPN": {
+            "lemma": "би",
+            "pos": "PROPN",
+            "key": "би_PROPN",
+            "pos_finegrained": "np",
+            "freq": 1,
+            "wordforms": {
+                "би": {
+                    "wordform": "би",
+                    "freq": 1,
+                    "feats": "Case=Nom|Gender=Masc",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "masc",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "Бесембаев_PROPN": {
+            "lemma": "Бесембаев",
+            "pos": "PROPN",
+            "key": "Бесембаев_PROPN",
+            "pos_finegrained": "np",
+            "freq": 1,
+            "wordforms": {
+                "Бесембаевамен": {
+                    "wordform": "Бесембаевамен",
+                    "freq": 1,
+                    "feats": "Case=Ins|Gender=Masc",
+                    "numtype": "",
+                    "case": "ins",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "masc",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "меморанду_NOUN": {
+            "lemma": "меморанду",
+            "pos": "NOUN",
+            "key": "меморанду_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "меморандумға": {
+                    "wordform": "меморандумға",
+                    "freq": 1,
+                    "feats": "Case=Dat",
+                    "numtype": "",
+                    "case": "dat",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "отыр_VERB": {
+            "lemma": "отыр",
+            "pos": "VERB",
+            "key": "отыр_VERB",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "отырды": {
+                    "wordform": "отырды",
+                    "freq": 1,
+                    "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin",
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "sing",
+                    "verbform": "fin",
+                    "mood": "ind",
+                    "person": "3",
+                    "tense": "past",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "сонымен_PRON": {
+            "lemma": "сонымен",
+            "pos": "PRON",
+            "key": "сонымен_PRON",
+            "pos_finegrained": "prn",
+            "freq": 1,
+            "wordforms": {
+                "Сонымен": {
+                    "wordform": "Сонымен",
+                    "freq": 1,
+                    "feats": "Case=Ins|PronType=Dem",
+                    "numtype": "",
+                    "case": "ins",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "dem",
+                    "voice": ""
+                }
+            }
+        },
+        "қатар_ADP": {
+            "lemma": "қатар",
+            "pos": "ADP",
+            "key": "қатар_ADP",
+            "pos_finegrained": "post",
+            "freq": 1,
+            "wordforms": {
+                "қатар": {
+                    "wordform": "қатар",
+                    "freq": 1,
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "қыркүйек_NOUN": {
+            "lemma": "қыркүйек",
+            "pos": "NOUN",
+            "key": "қыркүйек_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "қыркүйегінен": {
+                    "wordform": "қыркүйегінен",
+                    "freq": 1,
+                    "feats": "Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "abl",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "баста_VERB": {
+            "lemma": "баста",
+            "pos": "VERB",
+            "key": "баста_VERB",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "бастап": {
+                    "wordform": "бастап",
+                    "freq": 1,
+                    "feats": "Aspect=Perf|VerbForm=Conv",
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "conv",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "perf",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "кейбір_DET": {
+            "lemma": "кейбір",
+            "pos": "DET",
+            "key": "кейбір_DET",
+            "pos_finegrained": "det",
+            "freq": 1,
+            "wordforms": {
+                "кейбір": {
+                    "wordform": "кейбір",
+                    "freq": 1,
+                    "feats": "PronType=Tot",
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "tot",
+                    "voice": ""
+                }
+            }
+        },
+        "сақтандыру_NOUN": {
+            "lemma": "сақтандыру",
+            "pos": "NOUN",
+            "key": "сақтандыру_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "сақтандыру": {
+                    "wordform": "сақтандыру",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "нарық_NOUN": {
+            "lemma": "нарық",
+            "pos": "NOUN",
+            "key": "нарық_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "нарығын": {
+                    "wordform": "нарығын",
+                    "freq": 1,
+                    "feats": "Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "acc",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "бағалы_ADJ": {
+            "lemma": "бағалы",
+            "pos": "ADJ",
+            "key": "бағалы_ADJ",
+            "pos_finegrained": "adj",
+            "freq": 1,
+            "wordforms": {
+                "бағалы": {
+                    "wordform": "бағалы",
+                    "freq": 1,
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "қағаз_NOUN": {
+            "lemma": "қағаз",
+            "pos": "NOUN",
+            "key": "қағаз_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "қағаздар": {
+                    "wordform": "қағаздар",
+                    "freq": 1,
+                    "feats": "Case=Nom|Number=Plur",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "plur",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "ретте_VERB": {
+            "lemma": "ретте",
+            "pos": "VERB",
+            "key": "ретте_VERB",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "реттеу": {
+                    "wordform": "реттеу",
+                    "freq": 1,
+                    "feats": "Case=Nom|VerbForm=Ger",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "ger",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "дамыт_VERB": {
+            "lemma": "дамыт",
+            "pos": "VERB",
+            "key": "дамыт_VERB",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "дамыту": {
+                    "wordform": "дамыту",
+                    "freq": 1,
+                    "feats": "Case=Nom|VerbForm=Ger",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "ger",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "ҚР_PROPN": {
+            "lemma": "ҚР",
+            "pos": "PROPN",
+            "key": "ҚР_PROPN",
+            "pos_finegrained": "np",
+            "freq": 1,
+            "wordforms": {
+                "ҚР": {
+                    "wordform": "ҚР",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "аяыс_NOUN": {
+            "lemma": "аяыс",
+            "pos": "NOUN",
+            "key": "аяыс_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "аясында": {
+                    "wordform": "аясында",
+                    "freq": 1,
+                    "feats": "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "loc",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "өмірд_NOUN": {
+            "lemma": "өмірд",
+            "pos": "NOUN",
+            "key": "өмірд_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "өмірді": {
+                    "wordform": "өмірді",
+                    "freq": 1,
+                    "feats": "Case=Acc",
+                    "numtype": "",
+                    "case": "acc",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "сақтандыр_NOUN": {
+            "lemma": "сақтандыр",
+            "pos": "NOUN",
+            "key": "сақтандыр_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "сақтандырудың": {
+                    "wordform": "сақтандырудың",
+                    "freq": 1,
+                    "feats": "Case=Gen",
+                    "numtype": "",
+                    "case": "gen",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "жаңа_ADJ": {
+            "lemma": "жаңа",
+            "pos": "ADJ",
+            "key": "жаңа_ADJ",
+            "pos_finegrained": "adj",
+            "freq": 1,
+            "wordforms": {
+                "жаңа": {
+                    "wordform": "жаңа",
+                    "freq": 1,
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "әлеуметтік_ADJ": {
+            "lemma": "әлеуметтік",
+            "pos": "ADJ",
+            "key": "әлеуметтік_ADJ",
+            "pos_finegrained": "adj",
+            "freq": 1,
+            "wordforms": {
+                "әлеуметтік": {
+                    "wordform": "әлеуметтік",
+                    "freq": 1,
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "маңызды_ADJ": {
+            "lemma": "маңызды",
+            "pos": "ADJ",
+            "key": "маңызды_ADJ",
+            "pos_finegrained": "adj",
+            "freq": 1,
+            "wordforms": {
+                "маңызды": {
+                    "wordform": "маңызды",
+                    "freq": 1,
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "өнім_NOUN": {
+            "lemma": "өнім",
+            "pos": "NOUN",
+            "key": "өнім_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "өнімі": {
+                    "wordform": "өнімі",
+                    "freq": 1,
+                    "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "бірлес_VERB": {
+            "lemma": "бірлес",
+            "pos": "VERB",
+            "key": "бірлес_VERB",
+            "pos_finegrained": "v",
+            "freq": 1,
+            "wordforms": {
+                "бірлескен": {
+                    "wordform": "бірлескен",
+                    "freq": 1,
+                    "feats": "Tense=Past|VerbForm=Part",
+                    "numtype": "",
+                    "case": "",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "part",
+                    "mood": "",
+                    "person": "",
+                    "tense": "past",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "зейнетақ_NOUN": {
+            "lemma": "зейнетақ",
+            "pos": "NOUN",
+            "key": "зейнетақ_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "зейнетақы": {
+                    "wordform": "зейнетақы",
+                    "freq": 1,
+                    "feats": "Case=Nom",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "",
+                    "person_psor": "",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        },
+        "аннуитет_NOUN": {
+            "lemma": "аннуитет",
+            "pos": "NOUN",
+            "key": "аннуитет_NOUN",
+            "pos_finegrained": "n",
+            "freq": 1,
+            "wordforms": {
+                "аннуитеті": {
+                    "wordform": "аннуитеті",
+                    "freq": 1,
+                    "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+                    "numtype": "",
+                    "case": "nom",
+                    "number_psor": "plur,sing",
+                    "person_psor": "3",
+                    "number": "",
+                    "verbform": "",
+                    "mood": "",
+                    "person": "",
+                    "tense": "",
+                    "gender": "",
+                    "aspect": "",
+                    "prontype": "",
+                    "voice": ""
+                }
+            }
+        }
+    }
+}
